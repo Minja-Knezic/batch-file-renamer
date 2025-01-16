@@ -12,7 +12,7 @@ The **Batch File and Directory Renamer** is a Python script designed to streamli
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/batch-file-renamer.git
+   git clone https://github.com/Minja-Knezic/batch-file-renamer.git
    cd batch-file-renamer
    ```
 
